@@ -1,0 +1,13 @@
+build/
+build-*/
+.cache/
+compile_commands.json
+*.o
+*.a
+*.so
+core
+core.*
+vgcore.*
+obj/
+*.d
+projects/01-toolchain/wordfreq
